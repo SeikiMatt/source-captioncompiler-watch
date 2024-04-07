@@ -10,3 +10,4 @@ namespace SourceCaptioncompilerWatch;
 public partial class App : Application
 {
 }
+
